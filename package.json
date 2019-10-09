@@ -20,7 +20,7 @@
     "express-session": "^1.15.5",
     "passport": "^0.4.0",
     "passport-facebook": "^2.1.1",
-    "pg": "6.1.2",
+    "pg": "6.1.6",
     "request": "^2.72.0",
     "sendgrid": "^4.2.0",
     "uuid": "^2.0.3"
